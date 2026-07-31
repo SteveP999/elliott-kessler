@@ -2,11 +2,11 @@
   "artist": "Elliott Kessler",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Promises I Broke",
+    "title": "Why Do I Care?",
     "artist": "Elliott Kessler",
     "album": "What I Do From Here",
-    "cover": "images/covers/elliott-kessler-promises-i-broke-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/ilkswy3umjlipuejxbtgo/elliott-kessler-promises-I-broke.mp3?rlkey=ogsp0f9ufpdpqi592v3j6ej4d&st=he27d22e&raw=1",
+    "cover": "images/covers/elliott-kessler-why-do-i-care-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/ep1gzofp04fbdk2m5anrn/Why-Do-I-Care_.mp3?rlkey=1g288nkhl93a1nhqoj655kooe&st=xtebux6n&raw=1",
     "videos": []
   },
   "tracks": [
@@ -16,6 +16,14 @@
       "album": "What I Do From Here",
       "cover": "images/covers/elliott-kessler-promises-i-broke-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/ilkswy3umjlipuejxbtgo/elliott-kessler-promises-I-broke.mp3?rlkey=ogsp0f9ufpdpqi592v3j6ej4d&st=he27d22e&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Why Do I Care?",
+      "artist": "Elliott Kessler",
+      "album": "What I Do From Here",
+      "cover": "images/covers/elliott-kessler-why-do-i-care-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/ep1gzofp04fbdk2m5anrn/Why-Do-I-Care_.mp3?rlkey=1g288nkhl93a1nhqoj655kooe&st=xtebux6n&raw=1",
       "videos": []
     }
   ]
