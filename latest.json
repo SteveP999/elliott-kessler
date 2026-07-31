@@ -1,11 +1,11 @@
 {
-  "title": "New Music Coming Soon",
+  "title": "Promises I Broke",
   "artist": "Elliott Kessler",
-  "album": "",
+  "album": "What I Do From Here",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/elliott-kessler-promises-i-broke-cover.png",
+  "image": "images/covers/elliott-kessler-promises-i-broke-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/ilkswy3umjlipuejxbtgo/elliott-kessler-promises-I-broke.mp3?rlkey=ogsp0f9ufpdpqi592v3j6ej4d&st=he27d22e&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/ilkswy3umjlipuejxbtgo/elliott-kessler-promises-I-broke.mp3?rlkey=ogsp0f9ufpdpqi592v3j6ej4d&st=he27d22e&raw=1",
   "videos": []
 }
