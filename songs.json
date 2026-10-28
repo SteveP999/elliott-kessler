@@ -105,13 +105,13 @@
     "albumOrder": 4,
     "albumCover": "images/covers/elliott-kessler-what-i-do-from-here-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/elliott-kessler-dead-man-walking-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-dead-man-walking-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&st=our8i49b&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-dead-man-walking-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&st=our8i49b&raw=1",
     "videos": [],
     "includeOnRadio": false,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {
@@ -119,5 +119,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "elliott-kessler-i-freeze",
+    "num": "01",
+    "title": "I Freeze",
+    "artist": "Elliott Kessler",
+    "album": "What I Do From Here",
+    "trackNumber": 99,
+    "albumOrder": 99,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/elliott-kessler-i-freeze-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/4267408xte2pn8dawrv0j/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=8yr25fslyxj45w2nxu021vwmx&st=mubs1h85&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/4267408xte2pn8dawrv0j/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=8yr25fslyxj45w2nxu021vwmx&st=mubs1h85&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
