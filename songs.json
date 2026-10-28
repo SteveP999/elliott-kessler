@@ -86,7 +86,7 @@
   {
     "id": "elliott-kessler-i-freeze",
     "num": "04",
-    "title": "I Freeze",
+    "title": "Dead Man Walking",
     "artist": "Elliott Kessler",
     "album": "What I Do From Here",
     "trackNumber": 4,
@@ -95,13 +95,17 @@
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/elliott-kessler-i-freeze-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&raw=1",
+    "audio": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-dead-man-walking-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&st=our8i49b&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/p54mzfoq5x8rt8ws74g7a/elliott-kessler-dead-man-walking-MP3-mastered.mp3?rlkey=e973xk8lraktmzphb31d6by3a&st=our8i49b&raw=1",
     "videos": [],
     "includeOnRadio": false,
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
