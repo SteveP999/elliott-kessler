@@ -94,5 +94,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "elliott-kessler-i-freeze",
+    "num": "05",
+    "title": "I Freeze",
+    "artist": "Elliott Kessler",
+    "album": "What I Do From Here",
+    "trackNumber": 5,
+    "albumOrder": 5,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/elliott-kessler-i-freeze-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/4267408xte2pn8dawrv0j/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=8yr25fslyxj45w2nxu021vwmx&st=ljfdiqw5&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/4267408xte2pn8dawrv0j/elliott-kessler-i-freeze-MP3-mastered.mp3?rlkey=8yr25fslyxj45w2nxu021vwmx&st=ljfdiqw5&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
